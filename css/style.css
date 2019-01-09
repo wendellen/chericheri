@@ -29,7 +29,7 @@ html:active {
   padding: 8px 8px 8px 32px;
   text-decoration: none;
   font-family: 'Fjalla One', sans-serif;
-  font-size: 2vw;
+  font-size: 40px;
   color: white;
   display: block;
   transition: 0.3s;
@@ -72,13 +72,14 @@ html:active {
 /* MAIN */
 
 .main {
-	margin-left: 320px;
+	margin-left: 20vw;
 }
 
 img {
   width: auto;
-  max-width: 100%;
+  max-width: 80%;
   height: auto;
+  padding: 3vw;
 }
 
 /* MAIN INVERT SCROLL */
